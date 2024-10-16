@@ -1,6 +1,6 @@
 # 🤖 RAG-QA_Bot 🤖
 
-Welcome to the **RAG-QA_Bot** repository! 🚀 This project is designed to demonstrate the capabilities of a Retrieval-Augmented Generation (RAG) model for Question Answering tasks.
+Welcome to the **RAG-QA_Bot** repository! 🚀 This project is designed to demonstrate the capabilities of a Retrieval-Augmented Generation (RAG) model for a Questionnaire answering business related stuff.
 
 ## 📖 Table of Contents
 - [🛠️ Features](#-features)
